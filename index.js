@@ -1,1 +1,1 @@
-console.log("Conflict Created huhuhu");
+console.log("Conflict resolved");
