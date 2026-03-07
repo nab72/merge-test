@@ -6,3 +6,4 @@ if (x > 10) {
 } else {
   console.log("x is 10 or less");
 }
+console.log("hi");
