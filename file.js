@@ -1,6 +1,6 @@
 console.log("Conflict Created");
 console.log("Valid Email");
-conse.log("update
+console.log("updated");
 <script>
   document.getElementById('contact-form').addEventListener('submit', function(event) {
     const email = document.getElementById('email').value;
@@ -9,5 +9,4 @@ conse.log("update
       alert('Please enter a valid email address.');
     }
   });
-</script>
 </script>
