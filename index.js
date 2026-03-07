@@ -1,11 +1,9 @@
 console.log("again Conflict created");
 console.log("Conflict resolved #1 test");
-<button id="myBtn">Click me</button>
-<p id="demo"></p>
+let x = 5;
+if (x > 10) {
+  console.log("x is greater than 10");
+} else {
+  console.log("x is 10 or less");
+}
 
-<script>
-  const btn = document.getElementById("myBtn");
-  btn.addEventListener("click", function() {
-    document.getElementById("demo").innerHTML = Date(); //
-  });
-</script>
