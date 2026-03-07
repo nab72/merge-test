@@ -1,3 +1,13 @@
 console.log("Conflict Created");
-console.log("Merge");
-console.log("update");
+console.log("Valid Email");
+conse.log("update
+<script>
+  document.getElementById('contact-form').addEventListener('submit', function(event) {
+    const email = document.getElementById('email').value;
+    if (!email.includes('@')) {
+      event.preventDefault(); // Prevents form submission
+      alert('Please enter a valid email address.');
+    }
+  });
+</script>
+</script>
